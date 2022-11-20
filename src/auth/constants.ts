@@ -1,4 +1,4 @@
 export const jwtConstants = {
-    secret: 'jwt@auth-api',
+    secret: 'auth-api@nest.js',
     expiresIn: '365d',
 };
